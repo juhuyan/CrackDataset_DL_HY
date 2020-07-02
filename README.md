@@ -1,4 +1,4 @@
-####Pavement surface crack datasets for DL based crack detection
+Pavement surface crack datasets for DL based crack detection
 ###################################################################
 CrackDataset_DL_HY
 Ju Huyan (ju_huyan@outlook.com)
@@ -13,19 +13,29 @@ If you use this crack image dataset, we appreciate it if you cite an appropriate
 
 @article{huyancracku,
   title={CrackU-net: A novel deep convolutional neural network for pixelwise pavement crack detection},
+
   author={Huyan, Ju and Li, Wei and Tighe, Susan and Xu, Zhengchao and Zhai, Junzhi},
+
   journal={Structural Control and Health Monitoring},
+
   pages={e2551},
+
   publisher={Wiley Online Library}
 }
 
 @article{huyan2019detection,
   title={Detection of sealed and unsealed cracks with complex backgrounds using deep convolutional neural network},
+
   author={Huyan, Ju and Li, Wei and Tighe, Susan and Zhai, Junzhi and Xu, Zhengchao and Chen, Yao},
+
   journal={Automation in Construction},
+
   volume={107},
+
   pages={102946},
+
   year={2019},
+
   publisher={Elsevier}
 }
 
