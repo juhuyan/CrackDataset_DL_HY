@@ -66,9 +66,7 @@ If you use this crack image dataset, we appreciate it if you cite an appropriate
 
         original crack image. These images can be used for pixel-level crack detection model training and test.
 
-  2.2 These crack images are collected by automatic data collection vehicles of the size 1280(pixel)* 960(pixel). Detailed data collection methods can be find
-
-      from the above papers.
+  2.2 These crack images are collected by automatic data collection vehicles of the size 1280(pixel)* 960(pixel). Detailed data collection methods can be find from the above papers.
 
 ###################################################################
 
