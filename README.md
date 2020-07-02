@@ -12,6 +12,7 @@ CrackDataset_DL_HY is an annotated road crack image database for both box-level 
 If you use this crack image dataset, we appreciate it if you cite an appropriate subset of the following papers:
 
 @article{huyancracku,
+
   title={CrackU-net: A novel deep convolutional neural network for pixelwise pavement crack detection},
 
   author={Huyan, Ju and Li, Wei and Tighe, Susan and Xu, Zhengchao and Zhai, Junzhi},
@@ -21,9 +22,11 @@ If you use this crack image dataset, we appreciate it if you cite an appropriate
   pages={e2551},
 
   publisher={Wiley Online Library}
+
 }
 
 @article{huyan2019detection,
+
   title={Detection of sealed and unsealed cracks with complex backgrounds using deep convolutional neural network},
 
   author={Huyan, Ju and Li, Wei and Tighe, Susan and Zhai, Junzhi and Xu, Zhengchao and Chen, Yao},
@@ -37,6 +40,7 @@ If you use this crack image dataset, we appreciate it if you cite an appropriate
   year={2019},
 
   publisher={Elsevier}
+
 }
 
 ###################################################################
