@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>alligator</folder>
+<filename>28438.jpg</filename>
+<path>D:\10\检测车\沥青路面\普通噪声背景\alligator\28438.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1280</width>
+    <height>960</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>alligator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1</xmin>
+        <ymin>2</ymin>
+        <xmax>420</xmax>
+        <ymax>950</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>alligator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>637</xmin>
+        <ymin>308</ymin>
+        <xmax>1229</xmax>
+        <ymax>785</ymax>
+    </bndbox>
+</object>
+</annotation>

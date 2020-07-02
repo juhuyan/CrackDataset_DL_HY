@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>transverse</folder>
+<filename>26026.jpg</filename>
+<path>C:\Users\lenovo\Desktop\0\检测车\沥青路面\普通噪声背景\transverse\26026.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1280</width>
+    <height>960</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>transverse</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>356</xmin>
+        <ymin>4</ymin>
+        <xmax>1128</xmax>
+        <ymax>372</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>longitudinal</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1004</xmin>
+        <ymin>692</ymin>
+        <xmax>1156</xmax>
+        <ymax>954</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>新建文件夹 (2)</folder>
+	<filename>095242224-016366-016366_28.JPG</filename>
+	<path>F:\龟裂\新建文件夹 (2)\095242224-016366-016366_28.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>transverse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>1510</ymin>
+			<xmax>1214</xmax>
+			<ymax>1995</ymax>
+		</bndbox>
+	</object>
+</annotation>

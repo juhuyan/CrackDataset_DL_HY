@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>020380.jpg</filename>
+	<path>E:\home-file\school\sealed_selected\imgs\020380.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sealed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>863</xmin>
+			<ymin>515</ymin>
+			<xmax>1248</xmax>
+			<ymax>689</ymax>
+		</bndbox>
+	</object>
+</annotation>

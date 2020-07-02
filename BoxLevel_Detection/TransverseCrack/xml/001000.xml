@@ -1,0 +1,39 @@
+<annotation>
+<folder>transverse</folder>
+<filename>35297.jpg</filename>
+<path>D:\10\&#26816;&#27979;&#36710;\&#27813;&#38738;&#36335;&#38754;\&#26222;&#36890;&#22122;&#22768;&#32972;&#26223;\transverse\35297.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1280</width>
+    <height>960</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>alligator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1</xmin>
+        <ymin>662</ymin>
+        <xmax>282</xmax>
+        <ymax>952</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>transverse</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>286</xmin>
+        <ymin>710</ymin>
+        <xmax>1144</xmax>
+        <ymax>956</ymax>
+    </bndbox>
+</object>
+</annotation>

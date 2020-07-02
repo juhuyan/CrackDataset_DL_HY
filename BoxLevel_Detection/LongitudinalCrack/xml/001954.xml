@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>longitudinal</folder>
+<filename>33788.jpg</filename>
+<path>E:\我的\9\检测车\沥青路面\普通噪声背景\longitudinal\33788.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1280</width>
+    <height>960</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>longitudinal</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>587</xmin>
+        <ymin>554</ymin>
+        <xmax>651</xmax>
+        <ymax>915</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>longitudinal</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>647</xmin>
+        <ymin>42</ymin>
+        <xmax>721</xmax>
+        <ymax>461</ymax>
+    </bndbox>
+</object>
+</annotation>

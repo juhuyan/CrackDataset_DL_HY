@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>transverse</folder>
+<filename>29405.jpg</filename>
+<path>C:\Users\PC\Desktop\11\检测车\沥青路面\普通噪声背景\transverse\29405.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1280</width>
+    <height>960</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>transverse</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>592</xmin>
+        <ymin>540</ymin>
+        <xmax>1268</xmax>
+        <ymax>618</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>transverse</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>10</xmin>
+        <ymin>634</ymin>
+        <xmax>446</xmax>
+        <ymax>724</ymax>
+    </bndbox>
+</object>
+</annotation>

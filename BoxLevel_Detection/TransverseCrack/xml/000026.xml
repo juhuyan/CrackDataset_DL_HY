@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>transverse</folder>
+<filename>24652.jpg</filename>
+<path>C:\Users\PC\Desktop\11\检测车\沥青路面\普通噪声背景\transverse\24652.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1280</width>
+    <height>960</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>alligator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>112</xmin>
+        <ymin>206</ymin>
+        <xmax>734</xmax>
+        <ymax>390</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>transverse</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>816</xmin>
+        <ymin>420</ymin>
+        <xmax>1224</xmax>
+        <ymax>562</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>transverse</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1000</xmin>
+        <ymin>606</ymin>
+        <xmax>1220</xmax>
+        <ymax>850</ymax>
+    </bndbox>
+</object>
+</annotation>

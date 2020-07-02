@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>transverse</folder>
+<filename>25320.jpg</filename>
+<path>G:\crake\检测车\沥青路面\普通噪声背景\transverse\25320.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1280</width>
+    <height>960</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>alligator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>644</xmin>
+        <ymin>222</ymin>
+        <xmax>1264</xmax>
+        <ymax>392</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>longitudinal</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>528</xmin>
+        <ymin>214</ymin>
+        <xmax>562</xmax>
+        <ymax>348</ymax>
+    </bndbox>
+</object>
+</annotation>

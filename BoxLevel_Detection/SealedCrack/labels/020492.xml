@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>sealed_crack</folder>
+<filename>11591.jpg</filename>
+<path>E:\crack_distribution\crack_distribution4\检测车\沥青路面\普通噪声背景\sealed_crack\11591.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1280</width>
+    <height>960</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>sealed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>210</xmin>
+        <ymin>14</ymin>
+        <xmax>314</xmax>
+        <ymax>938</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>longitudinal</folder>
+<filename>35478.jpg</filename>
+<path>G:\crake\检测车\沥青路面\普通噪声背景\longitudinal\35478.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1280</width>
+    <height>960</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>longitudinal</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>572</xmin>
+        <ymin>510</ymin>
+        <xmax>762</xmax>
+        <ymax>952</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>alligator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>948</xmin>
+        <ymin>180</ymin>
+        <xmax>1266</xmax>
+        <ymax>438</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>longitudinal</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>296</xmin>
+        <ymin>672</ymin>
+        <xmax>448</xmax>
+        <ymax>946</ymax>
+    </bndbox>
+</object>
+</annotation>

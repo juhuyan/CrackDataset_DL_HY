@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>transverse</folder>
+<filename>35370.jpg</filename>
+<path>E:\一个伟大的工程\3\检测车\沥青路面\普通噪声背景\transverse\35370.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1280</width>
+    <height>960</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>transverse</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>608</ymin>
+        <xmax>318</xmax>
+        <ymax>756</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>transverse</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>591</xmin>
+        <ymin>493</ymin>
+        <xmax>1061</xmax>
+        <ymax>641</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>longitudinal</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>902</xmin>
+        <ymin>825</ymin>
+        <xmax>936</xmax>
+        <ymax>950</ymax>
+    </bndbox>
+</object>
+</annotation>

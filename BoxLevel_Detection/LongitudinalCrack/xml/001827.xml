@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>longitudinal</folder>
+<filename>32165.jpg</filename>
+<path>G:\crake\检测车\沥青路面\普通噪声背景\longitudinal\32165.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1280</width>
+    <height>960</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>longitudinal</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>532</xmin>
+        <ymin>20</ymin>
+        <xmax>604</xmax>
+        <ymax>952</ymax>
+    </bndbox>
+</object>
+</annotation>

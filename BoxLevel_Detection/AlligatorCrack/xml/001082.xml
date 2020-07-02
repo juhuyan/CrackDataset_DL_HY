@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>alligator</folder>
+<filename>21114.jpg</filename>
+<path>F:\裂缝检测\8\检测车\沥青路面\普通噪声背景\alligator\21114.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1280</width>
+    <height>960</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>alligator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>8</xmin>
+        <ymin>197</ymin>
+        <xmax>1013</xmax>
+        <ymax>937</ymax>
+    </bndbox>
+</object>
+</annotation>

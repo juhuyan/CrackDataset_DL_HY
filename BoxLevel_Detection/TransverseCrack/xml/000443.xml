@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>transverse</folder>
+<filename>29694.jpg</filename>
+<path>F:\裂缝检测\8\检测车\沥青路面\普通噪声背景\transverse\29694.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1280</width>
+    <height>960</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>transverse</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>35</xmin>
+        <ymin>602</ymin>
+        <xmax>1259</xmax>
+        <ymax>944</ymax>
+    </bndbox>
+</object>
+</annotation>

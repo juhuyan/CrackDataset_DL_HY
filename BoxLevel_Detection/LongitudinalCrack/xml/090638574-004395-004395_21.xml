@@ -1,0 +1,26 @@
+<annotation>
+	<folder>纵向裂缝</folder>
+	<filename>090638574-004395-004395_21.JPG</filename>
+	<path>F:\裂缝\广东数据\纵向裂缝\090638574-004395-004395_21.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>longitudinal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>439</xmin>
+			<ymin>135</ymin>
+			<xmax>650</xmax>
+			<ymax>2011</ymax>
+		</bndbox>
+	</object>
+</annotation>

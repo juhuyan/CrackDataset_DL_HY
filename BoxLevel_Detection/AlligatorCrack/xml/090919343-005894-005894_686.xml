@@ -1,0 +1,26 @@
+<annotation>
+	<folder>龟裂</folder>
+	<filename>090919343-005894-005894_686.JPG</filename>
+	<path>F:\龟裂\龟裂\090919343-005894-005894_686.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alligator</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>629</xmin>
+			<ymin>554</ymin>
+			<xmax>1374</xmax>
+			<ymax>1891</ymax>
+		</bndbox>
+	</object>
+</annotation>

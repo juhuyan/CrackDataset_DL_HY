@@ -1,0 +1,26 @@
+<annotation>
+	<folder>新建文件夹</folder>
+	<filename>091538689-009643-009643_589.JPG</filename>
+	<path>C:\Users\Administrator\Desktop\标注\新建文件夹\091538689-009643-009643_589.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>2048</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>transeverse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>1678</ymin>
+			<xmax>2012</xmax>
+			<ymax>1875</ymax>
+		</bndbox>
+	</object>
+</annotation>
