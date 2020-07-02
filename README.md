@@ -48,7 +48,7 @@ If you use this crack image dataset, we appreciate it if you cite an appropriate
 
 ##################################################################
 
-2. Databased information
+2. Database Information.
 
 2.1 This dataset contains to kinds of annotated datasets, which are seperated into two folders: Box-level_Dectetion and SematicSeg_Dataset
 
