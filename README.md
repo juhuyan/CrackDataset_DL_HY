@@ -46,15 +46,39 @@ If you use this crack image dataset, we appreciate it if you cite an appropriate
 
 }
 
+##################################################################
+
+2. Databased information
+
+2.1 This dataset contains to kinds of annotated datasets, which are seperated into two folders: Box-level_Dectetion and SematicSeg_Dataset
+
+    -----Box-level_Dectetion folder:
+
+         This folder contains the annotated crack images of the types transverse cracks, longitudinal cracks, alligator cracks, and sealed   
+
+         cracks. Each type of crack files contains both original crack images and the .xml files that are the label information of the corresponding crack
+
+         image. These can be used for box-level crack detection model training and test.
+
+   -----SematicSeg_Dataset folder:
+
+        This folder contains the original crack images and the corresponding pixel-level labels. Each label is a binary crack image that corresponds to the
+
+        original crack image. These images can be used for pixel-level crack detection model training and test.
+
+  2.2 These crack images are collected by automatic data collection vehicles of the size 1280(pixel)* 960(pixel). Detailed data collection methods can be find
+
+      from the above papers.
+
 ###################################################################
 
-2.License.
+3.License.
 
 The dataset is made available for non-commercial research purposes only.
 
 ###################################################################
 
-3.History.
+4.History.
 
 Version 1.0 (2020/06/29)
 
