@@ -4,7 +4,8 @@ Pavement surface crack datasets for DL based crack detection
 
 CrackDataset_DL_HY
 
-Ju Huyan (ju_huyan@outlook.com)
+Ju Huyan (ju_huyan@outlook.com), University of Waterloo, Canada
+Wei Li(grandy@chd.edu.cn), Chang' An University, China
 
 ###################################################################
 
@@ -73,6 +74,8 @@ If you use this crack image dataset, we appreciate it if you cite an appropriate
 3.License.
 
 The dataset is made available for non-commercial research purposes only.
+
+Copyright: Wei Li Research Team, School of Information Engineering @ Chang' An University, China
 
 ###################################################################
 
